@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @engincansisman
-- 👀 I’m interested in Game Engines, C# and Game design.
+- 👀 I’m interested in Game Engines,programming languages  and Game design.
 - 🌱 I’m currently learning C#, Unity Engine,Unreal Engine and Game design.
-- 💞️ I’m looking to collaborate on games scripts and maybe more info.
 - 📫 How to reach me  engincansisman01@gmail.com
 
 <!---
